@@ -1,3 +1,52 @@
 {
-    "warehouses":[]
+    "warehouses":[
+        {
+            "city": "Москва",
+            "address": "ул. Рокотова, д. 15",
+            "description": "Описание склада в Москве",
+            "thumbnail": 1,
+            "contact_phone": "+79193132625",
+            "temperature": 17,
+            "ceiling_height": 350,
+            "images": [
+                ""
+            ]
+        },
+        {
+            "city": "Одинцово",
+            "address": "ул. Серверная, д. 36",
+            "description": "Описание склада в Одинцово",
+            "thumbnail": 2,
+            "contact_phone": "+79193132626",
+            "temperature": 20,
+            "ceiling_height": 280,
+            "images": [
+                ""
+            ]
+        },
+        {
+            "city": "Люберцы",
+            "address": "ул. Советская, д. 88",
+            "description": "Описание склада в Люберцах",
+            "thumbnail": 3,
+            "contact_phone": "+79193132627",
+            "temperature": 18,
+            "ceiling_height": 370,
+            "images": [
+                ""
+            ]
+        },
+        {
+            "city": "Домодедово",
+            "address": ", ул. Орджоникидзе, д. 29",
+            "description": "Описание склада в Домодедово",
+            "thumbnail": 4,
+            "contact_phone": "+79193132628",
+            "temperature": 18,
+            "ceiling_height": 320,
+            "images": [
+                ""
+            ]
+        }
+    ]
 }
