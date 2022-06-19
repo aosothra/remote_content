@@ -9,7 +9,9 @@
             "temperature": 17,
             "ceiling_height": 350,
             "images": [
-                ""
+                "https://raw.githubusercontent.com/aosothra/remote_content/master/self_storage/images/white_1.jpg",
+                "https://raw.githubusercontent.com/aosothra/remote_content/master/self_storage/images/white_2.jpg",
+                "https://raw.githubusercontent.com/aosothra/remote_content/master/self_storage/images/white_3.jpg"
             ]
         },
         {
@@ -21,7 +23,9 @@
             "temperature": 20,
             "ceiling_height": 280,
             "images": [
-                ""
+                "https://raw.githubusercontent.com/aosothra/remote_content/master/self_storage/images/blue_1.jpg",
+                "https://raw.githubusercontent.com/aosothra/remote_content/master/self_storage/images/blue_2.jpg",
+                "https://raw.githubusercontent.com/aosothra/remote_content/master/self_storage/images/blue_3.jpg"
             ]
         },
         {
@@ -33,7 +37,9 @@
             "temperature": 18,
             "ceiling_height": 370,
             "images": [
-                ""
+                "https://raw.githubusercontent.com/aosothra/remote_content/master/self_storage/images/green_1.jpg",
+                "https://raw.githubusercontent.com/aosothra/remote_content/master/self_storage/images/green_2.jpg",
+                "https://raw.githubusercontent.com/aosothra/remote_content/master/self_storage/images/green_3.jpg"
             ]
         },
         {
@@ -45,7 +51,9 @@
             "temperature": 18,
             "ceiling_height": 320,
             "images": [
-                ""
+                "https://raw.githubusercontent.com/aosothra/remote_content/master/self_storage/images/yellow_1.jpg",
+                "https://raw.githubusercontent.com/aosothra/remote_content/master/self_storage/images/yellow_2.jpg",
+                "https://raw.githubusercontent.com/aosothra/remote_content/master/self_storage/images/yellow_3.jpg"
             ]
         }
     ]
